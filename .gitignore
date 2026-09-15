@@ -7,3 +7,4 @@
 *.iml
 /src/test/java/com/alibaba/json/bvt/parser/autoType/
 /bin/
+node_modules/
